@@ -1,0 +1,16 @@
+{
+  "name": "ArkShare",
+  "version": "0.0.1",
+  "description": "A SketchPlugin",
+  "scripts": {
+    "zip": "node doZip.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitee.com:bojun_front_end/r3-front-frame.git"
+  },
+  "author": "Burgeon Front-End Developer",
+  "dependencies": {
+    "compressing": "^1.4.0"
+  }
+}
